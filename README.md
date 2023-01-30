@@ -1,5 +1,5 @@
 # Blog-Website
-This is Blog Application made with the help of Node, Express, MongoDB, EJS where the user can write their Blog.
+This is Blog Application made with the help of Node, Express, MongoDB and EJS, where the user can write their Blog.
 
 ### Output
 #### HomePage
